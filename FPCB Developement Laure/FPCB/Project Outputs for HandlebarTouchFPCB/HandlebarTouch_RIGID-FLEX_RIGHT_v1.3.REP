@@ -1,0 +1,127 @@
+*************************************************************
+FileName = HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBP1
+
+    Adding Layer      : Middle Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBS1
+
+    Adding Layer      : Middle Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Middle Layer
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.G1
+
+    Adding Layer      : Middle Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+

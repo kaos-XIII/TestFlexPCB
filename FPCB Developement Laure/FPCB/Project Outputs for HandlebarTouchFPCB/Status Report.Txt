@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HandlebarTouchFPCB.PrjPCB]
+   Generated File[HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.TXT]
+   Generated File[HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.LDP]
+   Generated File[HandlebarTouch_RIGID-FLEX_RIGHT_v1.3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:47:37 On 07/11/2018
