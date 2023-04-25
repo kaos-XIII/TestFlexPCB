@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XSXGXDEF
 
 [Document2]
-DocumentPath=TestFlexPCB.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -78,7 +78,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NUUKVDGS
+DocumentUniqueId=COMVCTTD
 
 [Configuration1]
 Name=Sources
